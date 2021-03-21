@@ -9,6 +9,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* NAVIGATION */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -22,8 +24,6 @@ a:hover {
 p {
     font-size: 16px;
 }
-
-/* NAVIGATION */
 
 .header {
     padding: 20px;
@@ -41,7 +41,7 @@ p {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -49,16 +49,16 @@ p {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* MAIN IMAGE */
+/* BACKGROUND IMAGE */
 
 .hero {
     height: 800px;
@@ -69,7 +69,7 @@ p {
     background-position: center;
 }
 
-/* CENTRAL STYLING */
+/* MAIN POSITIONING */
 
 .float-left {
     float: left;
@@ -81,7 +81,7 @@ p {
     margin-left: 25px;
 }
 
-/* CENTRAL INFORMATION */
+/* MAIN INFORMATION */
 
 .content {
     width: 75%;
