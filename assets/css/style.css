@@ -1,5 +1,4 @@
 /* GENERAL */
-/* a change for changes sake */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -116,17 +115,17 @@ p {
     background-color: #2589bd;
 }
 
-.sideBit {
+.sideSect {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.sideBit h3 {
+.sideSect h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.sideBit img {
+.sideSect img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
