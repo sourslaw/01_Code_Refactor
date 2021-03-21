@@ -1,11 +1,10 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-![alt text](assets/images/screenshot.png)
-
-
 ## Description
 
-The brief for this project is to refactor the existing code.
+- The brief for this project is to refactor the existing code for the Horiseon website.
+
+![alt text](assets/images/screenshot.png)
 
 ### The User Story for this brief is as follows:
 - The marketing agency would like a codebase which follows accessibility standards in order for the site to be optimized for search engines.
