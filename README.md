@@ -1,8 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/screenshot.png)
+
 
 ## Description
 
